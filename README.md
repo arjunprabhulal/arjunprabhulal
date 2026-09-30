@@ -22,11 +22,11 @@ Free resources I've made while learning and sharing.
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built semantic search over 300 million plus academic papers](https://medium.com/@arjun-prabhulal/how-i-built-semantic-search-over-300-million-plus-academic-papers-f05035a50369)
-- [Building a Local, Multimodal AI Terminal Agent with Gemma 4](https://medium.com/google-developer-experts/building-a-local-multimodal-ai-terminal-agent-with-gemma-4-4fbaa50eb14b)
-- [Building a RAG Agent with Google ADK, Antigravity SDK, Agent Skills, A2UI, and Gemini Enterprise](https://medium.com/google-cloud/building-a-rag-agent-with-google-adk-antigravity-sdk-agent-skills-a2ui-and-gemini-enterprise-972c1f18f9be)
-- [Build AI Agents with Google ADK Visual Agent Builder](https://medium.com/ai-cloud-lab/build-ai-agents-with-google-adk-visual-agent-builder-1b2d81ce95e7)
-- [RAG Simplified with File Search Tool](https://medium.com/google-cloud/rag-simplified-with-file-search-tool-e17098838bc0)
+- [How I built semantic search over 300 million plus academic papers](https://medium.com/@arjun-prabhulal/how-i-built-semantic-search-over-300-million-plus-academic-papers-f05035a50369?source=rss-53e5967c7672------2)
+- [Building a Local, Multimodal AI Terminal Agent with Gemma 4](https://medium.com/google-developer-experts/building-a-local-multimodal-ai-terminal-agent-with-gemma-4-4fbaa50eb14b?source=rss-53e5967c7672------2)
+- [Building a RAG Agent with Google ADK, Antigravity SDK, Agent Skills, A2UI, and Gemini Enterprise…](https://medium.com/google-cloud/building-a-rag-agent-with-google-adk-antigravity-sdk-agent-skills-a2ui-and-gemini-enterprise-972c1f18f9be?source=rss-53e5967c7672------2)
+- [Build AI Agents with Google ADK Visual Agent Builder](https://medium.com/ai-cloud-lab/build-ai-agents-with-google-adk-visual-agent-builder-1b2d81ce95e7?source=rss-53e5967c7672------2)
+- [RAG Simplified with File Search Tool](https://medium.com/google-cloud/rag-simplified-with-file-search-tool-e17098838bc0?source=rss-53e5967c7672------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More on Medium](https://medium.com/@arjun-prabhulal)
