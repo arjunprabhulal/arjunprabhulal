@@ -11,12 +11,18 @@ Principal Engineer and Google Developer Expert (GDE). I build AI agents and RAG 
 
 ### Projects
 
-Free resources I've made while learning and sharing.
+Things I build and run.
 
-- <img src="assets/rivul-ai.png" width="16" height="16" alt="" align="absmiddle" /> **[Rivul AI](https://rivul.ai/)**: an AI research workspace for drafting with your sources, chatting with PDFs, and trying out research agents and MCP.
-- <img src="assets/whatisai.png" width="16" height="16" alt="" align="absmiddle" /> **[whatisai](https://whatisai.fyi)**: short AI explainers, each with plain words, one clear diagram and an official source behind every fact.
-- **[adk-vertex-ai-rag-engine](https://github.com/arjunprabhulal/adk-vertex-ai-rag-engine)**: a RAG agent built on Google ADK and Vertex AI RAG Engine. It gives you semantic search over your documents in a couple of minutes.
+- <img src="assets/superpdf.png" width="16" height="16" alt="" align="absmiddle" /> **[superPDF AI](https://superpdf.ai/)**: 68 free PDF tools that run in your browser, plus Chat with PDF with page citations and PDF agents you approve step by step. Files stay on your device.
+- **[@superpdf/cli](https://github.com/arjunprabhulal/superpdf)**: superPDF's open-source reader as a CLI, MCP server and local REST API (Apache-2.0). It turns PDFs into Markdown, HTML or JSON with headings, tables, charts as data and OCR in 15 languages, without a language model.
+- <img src="assets/rivul-ai.png" width="16" height="16" alt="" align="absmiddle" /> **[Rivul AI](https://rivul.ai/)**: search 300M+ research papers, draft with sources attached, ask your own PDFs, scans and recordings with cited answers, and run research agents. Includes an MCP server and a REST API.
+- <img src="assets/whatisai.png" width="16" height="16" alt="" align="absmiddle" /> **[whatisai](https://whatisai.fyi/)**: learn AI five minutes at a time, with a 29-chapter course, a glossary of about 800 terms and a curated AI news edition every day at 7 PM ET.
+- **[openalex-semantic-search](https://github.com/arjunprabhulal/openalex-semantic-search)**: semantic search over 300M+ OpenAlex papers without a vector database, served from a single CPU server. It powers the paper search in Rivul AI.
+
+### Learning resources
+
 - **[google-adk-masterclass](https://github.com/arjunprabhulal/google-adk-masterclass)**: 20 hands-on modules that take you from ADK basics to advanced multi-agent topics.
+- **[adk-vertex-ai-rag-engine](https://github.com/arjunprabhulal/adk-vertex-ai-rag-engine)**: a RAG agent built on Google ADK and Vertex AI RAG Engine, with semantic search over your documents in a couple of minutes.
 - **[mcp-gemini-search](https://github.com/arjunprabhulal/mcp-gemini-search)** and **[mcp-flight-search](https://github.com/arjunprabhulal/mcp-flight-search)**: MCP servers that pair Gemini function calling with real-time flight search.
 
 ### Latest writing
