@@ -13,6 +13,7 @@ Principal Engineer and Google Developer Expert (GDE). I build AI agents and RAG 
 
 Things I build and run.
 
+- <img src="assets/aiml.png" width="16" height="16" alt="" align="absmiddle" /> **[aiml.sh](https://aiml.sh/)**: free lessons on how AI models work, from training and inference to tokens, then Python builds with working code and tests: a text retriever that explains every score, a local model request tracer and a context budget manager.
 - <img src="assets/superpdf.png" width="16" height="16" alt="" align="absmiddle" /> **[superPDF AI](https://superpdf.ai/)**: 68 free PDF tools that run in your browser, plus Chat with PDF with page citations and PDF agents you approve step by step. Files stay on your device.
 - **[@superpdf/cli](https://github.com/arjunprabhulal/superpdf)**: superPDF's open-source reader as a CLI, MCP server and local REST API (Apache-2.0). It turns PDFs into Markdown, HTML or JSON with headings, tables, charts as data and OCR in 15 languages, without a language model.
 - <img src="assets/rivul-ai.png" width="16" height="16" alt="" align="absmiddle" /> **[Rivul AI](https://rivul.ai/)**: search 300M+ research papers, draft with sources attached, ask your own PDFs, scans and recordings with cited answers, and run research agents. Includes an MCP server and a REST API.
