@@ -15,5 +15,10 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@arjun-prabhulal"
+          feed_list: "https://arjunprabhulal.com/feed.xml,https://medium.com/feed/@arjun-prabhulal"
           max_post_count: 5
+          # Drop tracking parameters, and skip Medium copies of posts first published on arjunprabhulal.com
+          item_exec: |
+            post.url = post.url.split('?')[0];
+            const body = item['content:encoded'] || item.content || '';
+            if (post.url.includes('medium.com') && body.includes('Originally published at </em><a href="https://arjunprabhulal.com')) { post = null; }
